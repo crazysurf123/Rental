@@ -5,7 +5,7 @@
 			<div class="row">	
 			<div class="span12">
 					<div class="sti">
-						<a href="http://blog.my-univ.com"><img src="../LMS/popcorntime.png" class="img-rounded"></a>
+						<img src="../LMS/popcorntime.png" class="img-rounded">
 					</div>
 				<div class="login">
 				<div class="log_txt">
